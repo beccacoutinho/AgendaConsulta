@@ -1,0 +1,14 @@
+.formulario{
+    width: 100%;
+}
+.formulario p{
+    margin-top: 3vh;
+    font-size: 0.9rem;
+}
+input{
+    margin-top: 1vh;
+    width: 100%;
+    height: 5vh;
+    border: 1px solid #BFBFBF;
+    border-radius: 8px;
+}

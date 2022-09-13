@@ -1,0 +1,14 @@
+.divisor{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5vh;
+}
+.line{
+    width: 50%;
+    margin-bottom: 0.8vh;
+    border-bottom: 2px solid #BFBFBF;
+}
+.divisor p{
+    font-size: 0.8rem;
+    margin: 0 0.8vh;
+}

@@ -1,0 +1,15 @@
+.center{
+    position: absolute;
+    display: flex;
+    align-self: center;
+    width: 80vw;
+    border-radius: 18px;
+}
+
+@media (max-width: 768px){
+    .center{
+        margin-top: 5vh;
+        flex-direction: column;
+    }
+    
+}

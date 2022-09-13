@@ -1,0 +1,8 @@
+.cadastro{
+    position: absolute;
+    display: flex;
+    align-self: center;
+    width: 80vw;
+    background-color: #fff;
+    border-radius: 18px;    
+}
